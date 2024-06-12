@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "List of contents in current working directory:"
-ls 
+ls
