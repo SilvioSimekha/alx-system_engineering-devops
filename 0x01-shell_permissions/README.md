@@ -10,3 +10,4 @@ The script "8-James_Bond" gives no permission to the owner and the group but giv
 The script "9-John_Doe" sets the mod of "hello" to -rwxr-x-wx.
 The script "10-mirror_permissions" mirrors the permission of "olleh" to "hello".
 The script "11-directories_permissions" adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
+The script "12-directory_permissions" creates a directory called "my_dir" with permissions 751 in the working directory.
