@@ -21,4 +21,5 @@ The script "17-hidethisword" displays all the lines in the file /etc/passwd that
 The script "18-letteronly" displays all lines of the file /etc/ssh/sshd_config starting with a letter and a capital letter.
 The script "19-AZ" replaces all characters A and c from input to Z and e respectively.
 The script "20-hiago" removes all letters c and C from input. 
-The script " 21-reverse" reverses its input.   
+The script " 21-reverse" reverses its input.
+The script "22-users_and_homes" displays all users and their home directories, sorted by users.   
