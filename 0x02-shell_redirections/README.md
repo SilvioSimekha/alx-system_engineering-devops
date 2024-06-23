@@ -17,4 +17,5 @@ The script "13-unique" takes a list of words as input and prints only words that
 The script "14-findthatword" displays lines containing the pettern "root" from the file /etc/passwd.
 The script "15-countthatword" displays the number of lines that contain the pattern “bin” in the file /etc/passwd.
 The script "16-whatsnext" displays lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
-The script "17-hidethisword" displays all the lines in the file /etc/passwd that do not contain the pattern “bin”.   
+The script "17-hidethisword" displays all the lines in the file /etc/passwd that do not contain the pattern “bin”. 
+The script "18-letteronly" displays all lines of the file /etc/ssh/sshd_config starting with a letter and a capital letter.   
