@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $(($(find . -mindepth -tpye d -not -path '*/.*' | wc -1) -1)) 
