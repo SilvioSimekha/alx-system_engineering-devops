@@ -15,4 +15,5 @@ The script "11-directories" counts the number of directories and sub-directories
 The script "12-newest_files" displays the 10 newest files in the current directory, 1 fileper line, newest to oldest.
 The script "13-unique" takes a list of words as input and prints only words that appear exactly once, one word per line.
 The script "14-findthatword" displays lines containing the pettern "root" from the file /etc/passwd.
-The script "15-countthatword" displays the number of lines that contain the pattern “bin” in the file /etc/passwd.  
+The script "15-countthatword" displays the number of lines that contain the pattern “bin” in the file /etc/passwd.
+The script "16-whatsnext" displays lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.   
